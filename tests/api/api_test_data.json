@@ -1,0 +1,19 @@
+{
+    "getUser1": {
+        "id": "678fcd47-6e37-44ae-ae5c-98a00084350a",
+        "email": "testUser1234@example.com",
+        "firstName": "Andrew",
+        "lastName": "Testmann"
+    },
+    "updateUser1": {
+        "id": "9c5f3b29-55f2-44a4-bea4-467baab17f42",
+        "email": "testUser1235@example.com",
+        "firstName": "Andrew",
+        "lastName": "Testmann"
+    },
+    "invalidUserId1": "628fcd47-6b37-44ae-ae5c-77a00084352c",
+    "invalidCredentials1": {
+        "username": "username1",
+        "password": "nabla111"
+    }
+}
